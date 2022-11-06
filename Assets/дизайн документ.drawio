@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T12:09:48.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uR4IntFJInD6PCNuEUpL" version="20.5.2" type="github">
-  <diagram id="c6_Q_0-ij5niHA4tdSTI" name="Сторінка-1">
+<mxfile host="app.diagrams.net" modified="2022-11-06T12:30:44.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Wu6qHAKbe8ZjdoU-Et_U" version="20.5.2" type="github" pages="2">
+  <diagram id="c6_Q_0-ij5niHA4tdSTI" name="основна концепція">
     <mxGraphModel dx="3160" dy="1787" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -179,6 +179,129 @@
         </mxCell>
         <mxCell id="mKOz9OcVUULEBK8KP3yw-54" value="Система перевірки статуса" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1916.75" y="1003" width="212.5" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EU2vpqMwr88MizyYQZui" name="опис систем">
+    <mxGraphModel dx="2397" dy="1289" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=36;fontColor=#46495D;fillColor=#B2C9AB;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-1" target="ka9rtpq2fXaX5o0hTjbl-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272" y="119" />
+              <mxPoint x="272" y="204" />
+              <mxPoint x="153" y="204" />
+              <mxPoint x="153" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Персонаж&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="276" y="17" width="275" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Посилання&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="51" y="272" width="221" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;Система діалогів&lt;br&gt;Система Звуків&lt;br&gt;Система Анімацій&lt;br&gt;Система пересування&lt;br&gt;Система Статусів&lt;br&gt;&lt;/i&gt;Перевірка землі&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="17" y="493" width="289" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontSize=24;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-3" target="ka9rtpq2fXaX5o0hTjbl-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="339" as="sourcePoint" />
+            <mxPoint x="145" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-11" value="і" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=24;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-9" target="ka9rtpq2fXaX5o0hTjbl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-9" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Контроллер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-551" y="17" width="275" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-10" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Система контролю над персонажем&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-528" y="136" width="230" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Посилання&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-793" y="255" width="221" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;Система Персонаж&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="391" width="289" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontSize=24;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-12" target="ka9rtpq2fXaX5o0hTjbl-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-691" y="390" as="sourcePoint" />
+            <mxPoint x="-699" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontSize=22;fontColor=#46495D;fillColor=#B2C9AB;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.965;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-10" target="ka9rtpq2fXaX5o0hTjbl-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-578" y="323" as="sourcePoint" />
+            <mxPoint x="-629" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=24;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-17" target="ka9rtpq2fXaX5o0hTjbl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-17" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;АІ Контроллер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-517.5" y="476" width="210" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-18" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Персонажем керує бот&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-527.5" y="548" width="230" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=26;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-551" y="748" as="sourcePoint" />
+            <mxPoint x="-714" y="799" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-19" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Player Контроллер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="748" width="275" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Посилання&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-816.5" y="799" width="221" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;Система зчитування сигналів з ігрових пристроїв&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-806.5" y="952" width="289" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontSize=24;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-20" target="ka9rtpq2fXaX5o0hTjbl-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680.5" y="1019" as="sourcePoint" />
+            <mxPoint x="-688.5" y="1156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=27;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-25" target="ka9rtpq2fXaX5o0hTjbl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-25" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Функціонал&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;strokeWidth=3;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="714" width="170" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-26" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Апдейт&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;strokeWidth=3;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="663" width="119" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-32" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontSize=27;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.505;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-26" target="ka9rtpq2fXaX5o0hTjbl-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-136" y="951" as="sourcePoint" />
+            <mxPoint x="-171.5840000000003" y="824.9589999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-33" value="0. Зчитуємо сигнали з ігрових пристроїв.&lt;br&gt;1. Передаємо сигнал на персонажа.&lt;br&gt;2. Персонаж передає сигнал на систему руху&lt;br&gt;3. Персонаж рухається(якщо є така можливість)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=20;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="-221" y="833" width="204" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=20;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-36" target="ka9rtpq2fXaX5o0hTjbl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-36" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Пересування&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="17" width="275" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=20;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="ka9rtpq2fXaX5o0hTjbl-37" target="ka9rtpq2fXaX5o0hTjbl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Посилання&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="850" y="170" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ka9rtpq2fXaX5o0hTjbl-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Швидкість пересування&lt;br&gt;Сила прижка&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;strokeWidth=3;fontSize=22;fontColor=#46495D;fillColor=#DDFAD5;" vertex="1" parent="1">
+          <mxGeometry x="850" y="284" width="289" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
