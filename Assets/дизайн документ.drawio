@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T12:30:44.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Wu6qHAKbe8ZjdoU-Et_U" version="20.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-06T12:32:51.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6J5Hy6sN7KuzlQJN1_vR" version="20.5.2" type="github" pages="2">
   <diagram id="c6_Q_0-ij5niHA4tdSTI" name="основна концепція">
     <mxGraphModel dx="3160" dy="1787" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EU2vpqMwr88MizyYQZui" name="опис систем">
-    <mxGraphModel dx="2397" dy="1289" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4379" dy="1522" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
