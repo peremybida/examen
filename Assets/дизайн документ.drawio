@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T10:31:52.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.2" etag="S84L0EF2iH1PRlwxQ9gE" type="github"><diagram id="c6_Q_0-ij5niHA4tdSTI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-06T11:00:46.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nj0gwnf7AWVW2VLrnIYu" version="20.5.2" type="github">
+  <diagram id="c6_Q_0-ij5niHA4tdSTI" name="Сторінка-1">
+    <mxGraphModel dx="2188" dy="1237" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ball Journey&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Дизайн документ&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="346" y="70" width="136" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-4" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Опис&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;М&#39;ячик рухається по локації, збирає монетки, керуємо джойстиком, потріюно пройти певну к-ть уровнів. Мультяшний вигляд локацій.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;По сюжету ми граємо за мячик який можна кастомізувати в магазині та йому потрібно дойти до кінця та зустріти своє племя. Буде 3 частини, в кінці кожної буде &quot;босс&quot;, який буде заважати пройти рівень&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;В грі будуть такі предметти:&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;- Монетки(за них можна кастомізувати м&#39;ячик та якщо не набереш певну к-ть локація не відкриється);&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;- Інші м&#39;ячики в племені;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontSize=12;fontColor=#46495D;fillColor=#DDFAD5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="116" y="119" width="595" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontSize=12;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="mKOz9OcVUULEBK8KP3yw-4" target="mKOz9OcVUULEBK8KP3yw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ball Journey&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
