@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T11:27:41.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5AwdrFt-he0NXsu5VwR2" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-06T12:09:48.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uR4IntFJInD6PCNuEUpL" version="20.5.2" type="github">
   <diagram id="c6_Q_0-ij5niHA4tdSTI" name="Сторінка-1">
     <mxGraphModel dx="3160" dy="1787" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mKOz9OcVUULEBK8KP3yw-48" value="Контроллер" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=22;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="1717" y="731" width="136" height="68" as="geometry" />
+          <mxGeometry x="1717" y="685.75" width="136" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=22;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="mKOz9OcVUULEBK8KP3yw-51" target="mKOz9OcVUULEBK8KP3yw-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontSize=22;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="mKOz9OcVUULEBK8KP3yw-51" target="mKOz9OcVUULEBK8KP3yw-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-51" value="Тріггер" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=22;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1717" y="867" width="136" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-52" value="Система кнопки" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fontSize=22;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="703.37" width="136" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="mKOz9OcVUULEBK8KP3yw-54" value="Система перевірки статуса" style="whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1916.75" y="1003" width="212.5" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
